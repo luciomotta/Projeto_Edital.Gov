@@ -19,7 +19,7 @@ Clone o repositório
 
 # bash
 Copy code
-git clone https://github.com/seu-usuario/Projeto_Edital.Gov.git
+git clone [https://github.com/seu-usuario/Projeto_Edital.Gov.git](https://github.com/luciomotta/Projeto_Edital.Gov)
 cd Projeto_Edital.Gov
 Instale as dependências
 
